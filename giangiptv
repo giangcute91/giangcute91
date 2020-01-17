@@ -9,9 +9,11 @@ https://1q29m2rfs.vtvgiaitri.vn/hls/vtv3-234t4x.smil/t9x8ioh.m3u8
 https://1q29m2rfs.vtvgiaitri.vn/hls/vtv4-234khz.smil/k4bfljl.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/fWkhuBF.jpg",VTV5
 https://1q29m2rfs.vtvgiaitri.vn/hls/vtv54802p.smil/2gslugp.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/xvqCQT6.jpg",VTV6
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/xvqCQT6.jpg",VTV6 HD
+https://live.vtvdigital.vn/hls/d561c28dff917b5967ba227bfc9e1a9f/1579279555740/live/_definst_/vtv6-high.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/xvqCQT6.jpg",VTV6 SD1
 https://1q29m2rfs.vtvgiaitri.vn/hls/vtv64802v.smil/2tewkuv.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/xvqCQT6.jpg",VTV6
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/xvqCQT6.jpg",VTV6 SD2
 http://xemtivi.online/live/vtv6/index.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7hC1wSG.jpg",VTV7
 https://1q29m2rfs.vtvgiaitri.vn/hls/vtv7-234iyr.smil/iv8u7pu.m3u8
