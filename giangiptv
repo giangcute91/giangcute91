@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="HTVC" tvg-logo="https://i.imgur.com/sBIwAmn.jpg", VTV1
-https://or7qkl7etl.vcdn.com.vn/hls/VTV1_HD_631/03.m3u8
+
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/8CnKosU.jpg", HTV1
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/WQHqOFj.jpg" tvg-name="HTV2", HTV2
