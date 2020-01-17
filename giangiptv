@@ -66,16 +66,26 @@ http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC16/hlsv5/VTC16.m3u8
 
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ytimg.com/vi/d8ipweHTVYk/maxresdefault.jpg",CARTOON NETWORK
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8?
+#EXTINF: tvg-id="Disney Latvia" tvg-name="Disney Latvia" group-title="NƯỚC NGOÀI" tvg-logo="https://imgur.com/pycFGMd.png",Disney Channel (English)
+#https://cdnlb.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/index.m3u8
+#EXTINF:-1 tvg-logo="https://frontier.com/channels/~/media/channels/premium-channels/images/channels-hbo-logo.png" group-title="NƯỚC NGOÀI",HBO
+https://cdn2.xemtivivip.com/live/hbom.m3u8
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-id="AXN-ClipTV" tvg-logo="https://htvc.vn/uploads/editor/images/2539574-logo-max-by-hbo.png" ,MAX BY HBO
+https://cdn1.xemtivivip.com/live/maxm.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png",FOX FAMILY MOVIES HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/433_300.png",FOX MOVIES
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8?
+#EXTINF: tvg-id="MyTV" tvg-name="MyTV_Animal Planet" group-title="NƯỚC NGOÀI" tvg-logo="http://htvc.vn/uploads/editor/images/fox%20sport%202%20hd.png",Fox Sports 2 HD
+https://cdn2.xemtivimienphi.com/live/fox2.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="http://img.hplus.com.vn/728x409/banner/2019/07/16/894184-foxsport_3.png",FOX SPORTS 3
 http://203.162.235.46:19004/hls/EROSPORT_HD/playlist.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://i.postimg.cc/KYk12x4s/2-FASHION-TV.png",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190312_4bf8k0l4f89lh6b037facalel9539_240x149.jpg" ,Fashion HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png",[V] HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8?
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://yt3.ggpht.com/a-/ACSszfHrJiLUgh8_QsTst-H2vpcI0MnKMCbvr2aI=s900-mo-c-c0xffffffff-rj-k-no",Arirang KOREA
@@ -90,6 +100,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1065959876.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/FHml-OpmOgSi0MxlXvAPZu_zwQNOZMHRcgIN8rjx3i06jsYPxmCZKuc7T7DMB_TCnQU" group-title="NƯỚC NGOÀI",Da Vinci TV
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="NƯỚC NGOÀI",TV5 MONDE
+https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_1.m3u8
 
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhD5JSMY-yA_zL3BO6Sox8kRF25ghdjbAS7Y_66UGIA26Gbysn" ,VOV Vietnam Journey HD
@@ -144,6 +156,8 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://bacgiangtv.vn/upload/files/logo.png" group-title="ĐỊA PHƯƠNG",Bắc Giang
 http://vncdn.mediatech.vn/bgtvlive/tv1live.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/BRT_HD.png" ,Bà Rịa - Vũng Tàu
+http://live.cdn.mobifonetv.vn/motv/mybrt_hls.smil/chunklist_b1200000.m3u8
 
 
 #EXTINF:-1 group-title="THỂ THAO",Bein Sports 1 FullHD
