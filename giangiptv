@@ -179,15 +179,15 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.drt.danang.vn/images/drt2.png" group-title="ĐỊA PHƯƠNG",Đà Nẵng 2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://bacgiangtv.vn/upload/files/logo.png" group-title="ĐỊA PHƯƠNG",Bắc Giang
-http://vncdn.mediatech.vn/bgtvlive/tv1live.m3u8
+#http://vncdn.mediatech.vn/bgtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/BRT_HD.png" ,Bà Rịa - Vũng Tàu
 http://live.cdn.mobifonetv.vn/motv/mybrt_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,Cà Mau TV
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1,Da Nang TV1 HD
-http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1,Da Nang TV2 HD
-http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1,Da Nang TV1 SD
 #http://vietcago.net/vstv/danangtv1.m3u8
 #EXTINF:-1,LongAnTV
@@ -196,21 +196,21 @@ http://vietcago.net/vstv/longantv.m3u8
 
 
 #EXTINF:-1 group-title="THỂ THAO",Bein Sports 1 FullHD
-http://beryantv.com:25461/82419281798184/82419281798184/794
+#http://beryantv.com:25461/82419281798184/82419281798184/794
 #EXTINF:-1 group-title="THỂ THAO",Bein Sports 2 FullHD
-http://beryantv.com:25461/82419281798184/82419281798184/799
+#http://beryantv.com:25461/82419281798184/82419281798184/799
 #EXTINF:-1 group-title="THỂ THAO",Bein Sports 3HD
-http://beryantv.com:25461/82419281798184/82419281798184/806
+#http://beryantv.com:25461/82419281798184/82419281798184/806
 #EXTINF:-1 group-title="THỂ THAO",Bein Sports 4 FullHD
-http://beryantv.com:25461/82419281798184/82419281798184/809
+#http://beryantv.com:25461/82419281798184/82419281798184/809
 #EXTINF:-1 group-title="THỂ THAO",Bein Sports 5 FullHD
-http://beryantv.com:25461/82419281798184/82419281798184/814
+#http://beryantv.com:25461/82419281798184/82419281798184/814
 #EXTINF:-1 group-title="THỂ THAO",Bein Sports 6 Full
-http://beryantv.com:25461/82419281798184/82419281798184/820
+#http://beryantv.com:25461/82419281798184/82419281798184/820
 #EXTINF:-1 group-title="THỂ THAO",Bein Sports 7HD
-http://beryantv.com:25461/82419281798184/82419281798184/824
+#http://beryantv.com:25461/82419281798184/82419281798184/824
 #EXTINF:-1 group-title="THỂ THAO",Bein Sports 8HD
-http://beryantv.com:25461/82419281798184/82419281798184/826
+#http://beryantv.com:25461/82419281798184/82419281798184/826
 
 
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP",Live-Truyện Ma Nguyễn Ngọc Ngạn
