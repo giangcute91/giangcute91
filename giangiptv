@@ -1,23 +1,23 @@
 #EXTM3U
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/sBIwAmn.jpg",VTV1
-https://m6b8oxlly.vtvgiaitri.vn/hls/vtv1-234lww.smil/ltou7ps.m3u8
+#https://m6b8oxlly.vtvgiaitri.vn/hls/vtv1-234lww.smil/ltou7ps.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/29FDRXW.jpg",VTV2
-https://m6b8oxlly.vtvgiaitri.vn/hls/vtv3-234t4x.smil/t9x8ioh.m3u8
+#https://m6b8oxlly.vtvgiaitri.vn/hls/vtv3-234t4x.smil/t9x8ioh.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/8P3vbP2.jpg",VTV3
-https://m6b8oxlly.vtvgiaitri.vn/hls/vtv3-234t4x.smil/t9x8ioh.m3u8
+#https://m6b8oxlly.vtvgiaitri.vn/hls/vtv3-234t4x.smil/t9x8ioh.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/dWy3awY.jpg",VTV4
-https://m6b8oxlly.vtvgiaitri.vn/hls/vtv3-234t4x.smil/t9x8ioh.m3u8
+#https://m6b8oxlly.vtvgiaitri.vn/hls/vtv3-234t4x.smil/t9x8ioh.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/fWkhuBF.jpg",VTV5
-https://m6b8oxlly.vtvgiaitri.vn/hls/vtv1-234lww.smil/ltou7ps.m3u8
+#https://m6b8oxlly.vtvgiaitri.vn/hls/vtv1-234lww.smil/ltou7ps.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/xvqCQT6.jpg",VTV6
-https://m6b8oxlly.vtvgiaitri.vn/hls/vtv64802v.smil/2tewkuv.m3u8
+#https://m6b8oxlly.vtvgiaitri.vn/hls/vtv64802v.smil/2tewkuv.m3u8
 #http://14.225.7.93:8080/hls/vtv6.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7hC1wSG.jpg",VTV7
-https://m6b8oxlly.vtvgiaitri.vn/hls/vtv7-234iyr.smil/iv8u7pu.m3u8
+#https://m6b8oxlly.vtvgiaitri.vn/hls/vtv7-234iyr.smil/iv8u7pu.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/hG4PSqS.jpg",VTV8
-https://m6b8oxlly.vtvgiaitri.vn/hls/vtv8-23491x.smil/9nc3krq.m3u8
+#https://m6b8oxlly.vtvgiaitri.vn/hls/vtv8-23491x.smil/9nc3krq.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/b5Ukwdm.jpg",VTV9
-https://m6b8oxlly.vtvgiaitri.vn/hls/vtv9-234wm8.smil/wy1cwsv.m3u8
+#https://m6b8oxlly.vtvgiaitri.vn/hls/vtv9-234wm8.smil/wy1cwsv.m3u8
 
 
 #EXTINF:-1 group-title="VTV_Kenh2" tvg-logo="https://i.imgur.com/sBIwAmn.jpg",VTV1
@@ -182,6 +182,17 @@ http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 http://vncdn.mediatech.vn/bgtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/BRT_HD.png" ,Bà Rịa - Vũng Tàu
 http://live.cdn.mobifonetv.vn/motv/mybrt_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Cà Mau TV
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1,Da Nang TV1 HD
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+#EXTINF:-1,Da Nang TV2 HD
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+#EXTINF:-1,Da Nang TV1 SD
+#http://vietcago.net/vstv/danangtv1.m3u8
+#EXTINF:-1,LongAnTV
+http://vietcago.net/vstv/longantv.m3u8
+
 
 
 #EXTINF:-1 group-title="THỂ THAO",Bein Sports 1 FullHD
