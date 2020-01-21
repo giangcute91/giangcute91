@@ -87,52 +87,65 @@ http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC14/hlsv5/VTC14.m3u8
 http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC16/hlsv5/VTC16.m3u8
 
 
-#EXTINF:0 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/logo-c-c-ki-u-con-----i-u--v/viegiaitri200219.png",VTVcab1 - Vie Giải Trí 
+
+
+#EXTINF:-1 group-title="TIVI12" ,HITS - Star World
+http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=hits
+#EXTINF:-1 group-title="TIVI12" ,VTVCab21 - Disnep
+http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtvcab21
+#EXTINF:-1 group-title="TIVI12" ,VTC13 - MTV
+http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtvcab21
+
+
+
+
+
+#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/logo-c-c-ki-u-con-----i-u--v/viegiaitri200219.png",VTVcab1 - Vie Giải Trí 
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab1hd
-#EXTINF:0 group-title="Kênh VTVcab" tvg-logo="http://img.static.vtvcab.vn/logos/PHIMVIET_M.png",VTVcab2 - Phim Việt
+#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://img.static.vtvcab.vn/logos/PHIMVIET_M.png",VTVcab2 - Phim Việt
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab2hd
-#EXTINF:0 tvg-logo="https://micros.onsports.vn/resize/?url=https%3A%2F%2Fcontrol.onsports.vn%2Fuploads/channel_logo/TTTV%20HD.png&width=1200&height=9999&watermark=0",VTVcab3 - Thế Thao TV HD
-#EXTINF:0 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/logo-c-c-ki-u-con-----i-u--v/cab4300919.png",VTVcab4
+#EXTINF:-1 tvg-logo="https://micros.onsports.vn/resize/?url=https%3A%2F%2Fcontrol.onsports.vn%2Fuploads/channel_logo/TTTV%20HD.png&width=1200&height=9999&watermark=0",VTVcab3 - Thế Thao TV HD
+#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/logo-c-c-ki-u-con-----i-u--v/cab4300919.png",VTVcab4
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab4hd
-#EXTINF:0 tvg-logo="http://img.static.vtvcab.vn/logos/E_CHANNEL_M.png",VTVcab5 - E CHANNEL
+#EXTINF:-1 tvg-logo="http://img.static.vtvcab.vn/logos/E_CHANNEL_M.png",VTVcab5 - E CHANNEL
 #https://saigonrtmp.tulix.tv/vchannel6/vchannel6/playlist.m3u8
-#EXTINF:0 tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/haytvdoitac080816.png",VTVcab6 - Hay TV
+#EXTINF:-1 tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/haytvdoitac080816.png",VTVcab6 - Hay TV
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab6hd
 #https://live.vtvdigital.vn/hls/f3a29a5fa96e1c88ae76fea42ebd50bc/1546098838798/live/_definst_/vtvcab6-high.m3u8
-#EXTINF:0 group-title="Kênh VTVcab" tvg-logo="http://img.static.vtvcab.vn/logos/O2_TV_M.png",VTVcab7
+#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://img.static.vtvcab.vn/logos/O2_TV_M.png",VTVcab7
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab10hd
-#EXTINF:0 group-title="Kênh VTVcab" tvg-logo="http://img.static.vtvcab.vn/logos/BIBI_M.png",VTVcab8 - BiBi
+#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://img.static.vtvcab.vn/logos/BIBI_M.png",VTVcab8 - BiBi
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab8hd
-#EXTINF:0 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/5/anh1/logo-kenh-infotv-78.gif",VTVcab9 - INFO TV
+#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/5/anh1/logo-kenh-infotv-78.gif",VTVcab9 - INFO TV
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab9hd
-#EXTINF:0 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/logo-c-c-ki-u-con-----i-u--v/d-dramas-png220124.png",VTVcab10 - Vie Dramas
+#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/logo-c-c-ki-u-con-----i-u--v/d-dramas-png220124.png",VTVcab10 - Vie Dramas
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab7hd
-#EXTINF:0 tvg-logo="http://vgsshop.vn/Data/Sites/1/media/gioi-thieu/logo.png",VTVcab11-VGS SHOP
+#EXTINF:-1 tvg-logo="http://vgsshop.vn/Data/Sites/1/media/gioi-thieu/logo.png",VTVcab11-VGS SHOP
 https://5b0446c43ca13.streamlock.net/dn/htvmuasam.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/home/partnercarousel/20140614/vtvcab-12.png",VTVcab12 - STYLE TV
+#EXTINF:-1 tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/home/partnercarousel/20140614/vtvcab-12.png",VTVcab12 - STYLE TV
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab12hd
 #https://saigonrtmp.tulix.tv/vchannel10/vchannel10/chunklist_w720978064.m3u8
-#EXTINF:0 tvg-logo="http://m.vtvhyundai.vn/images/logo.png",VTVcab13 - VTV Hyundai Home Shopping
+#EXTINF:-1 tvg-logo="http://m.vtvhyundai.vn/images/logo.png",VTVcab13 - VTV Hyundai Home Shopping
 http://220.158.149.14:9999/live/TV00000000000000000106@HHZT;LIVE
 #http://42.118.73.6:4022/udp/225.1.1.122:30120
-#EXTINF:0 tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/logo-c-c-ki-u-con-----i-u--v/vcab15doitac050618.png",VTVcab15 
+#EXTINF:-1 tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/logo-c-c-ki-u-con-----i-u--v/vcab15doitac050618.png",VTVcab15 
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab15hd
-#EXTINF:0 tvg-logo="https://micros.onsports.vn/resize/?url=https%3A%2F%2Fcontrol.onsports.vn%2Fuploads/channel_logo/BDTV%20HD.png&width=1200&height=9999&watermark=0",VTVcab16 - Bóng Đá TV HD
+#EXTINF:-1 tvg-logo="https://micros.onsports.vn/resize/?url=https%3A%2F%2Fcontrol.onsports.vn%2Fuploads/channel_logo/BDTV%20HD.png&width=1200&height=9999&watermark=0",VTVcab16 - Bóng Đá TV HD
 http://gg.gg/lvttthethaotv
-#EXTINF:0 tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/home/partnercarousel/20140614/logo6.png",VTVcab17 - Yeah1! TV
+#EXTINF:-1 tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/home/partnercarousel/20140614/logo6.png",VTVcab17 - Yeah1! TV
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab17hd
 #https://live.vtvdigital.vn/hls/f3a29a5fa96e1c88ae76fea42ebd50bc/1546098838798/live/_definst_/vtvcab17-high.m3u8
-#EXTINF:0 group-title="Kênh VTVcab" tvg-logo="https://micros.onsports.vn/resize/?width=512&url=http://static.onsports.vn/uploads/channel_logo/Icon%20TTTTHD%20nen%20trang.png",VTVcab18 - Thể Thao Tin Tức HD
+#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="https://micros.onsports.vn/resize/?width=512&url=http://static.onsports.vn/uploads/channel_logo/Icon%20TTTTHD%20nen%20trang.png",VTVcab18 - Thể Thao Tin Tức HD
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab18hd
-#EXTINF:0 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/5/anh-2/27-12/film-66666.png",VTVcab19 - Film TV
+#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/5/anh-2/27-12/film-66666.png",VTVcab19 - Film TV
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab19hd
-#EXTINF:0 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-1/v20-220124-164.png",VTVcab20 - V Family 
+#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-1/v20-220124-164.png",VTVcab20 - V Family 
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab20hd
-#EXTINF:0 group-title="Kênh VTVcab" tvg-logo="http://hoangthanh.tk/icon-channel/VTVcab/vtvcab21.png",VTVcab21 - Cartoon Kids (BiBi+)
+#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://hoangthanh.tk/icon-channel/VTVcab/vtvcab21.png",VTVcab21 - Cartoon Kids (BiBi+)
 
-#EXTINF:0 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/lifetv051216doitac.png",VTVcab22 -Life TV (Love Nature TV)
+#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/lifetv051216doitac.png",VTVcab22 -Life TV (Love Nature TV)
 
-#EXTINF:0 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/logo-c-c-ki-u-con-----i-u--v/golf-300919.png",VTVcab23 - Golf TV
+#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/logo-c-c-ki-u-con-----i-u--v/golf-300919.png",VTVcab23 - Golf TV
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab23hd
 
 
