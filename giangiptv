@@ -19,7 +19,6 @@ http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/b5Ukwdm.jpg",VTV9
 http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv9
 
-
 #EXTINF:-1 group-title="VTV_Kenh2" tvg-logo="https://i.imgur.com/sBIwAmn.jpg",VTV1
 #https://or7qkl7etl.vcdn.com.vn/hls/VTV1_HD_631/03.m3u8
 
@@ -85,20 +84,6 @@ http://xemtivi.online/live/vtc/vtc13/chunklist.m3u8
 http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC14/hlsv5/VTC14.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/amaDGnw.jpg" group-title="VTC",VTC16
 http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC16/hlsv5/VTC16.m3u8
-
-
-
-
-#EXTINF:-1 group-title="TIVI12" ,HITS - Star World
-http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=hits
-#EXTINF:-1 group-title="TIVI12" ,VTVCab21 - Disnep
-http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtvcab21
-#EXTINF:-1 group-title="TIVI12" ,VTC13 - MTV
-http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtvcab13
-#EXTINF:-1 group-title="TIVI12" ,V-TheThao
-http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtvcab3
-
-
 
 
 
