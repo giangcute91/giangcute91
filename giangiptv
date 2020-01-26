@@ -153,7 +153,7 @@ https://cdn2.xemtivivip.com/live/hbom.m3u8
 http://cdn2.xemtivivip.com/live/hbom.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-id="AXN-ClipTV" tvg-logo="https://htvc.vn/uploads/editor/images/2539574-logo-max-by-hbo.png" ,MAX BY HBO1
 https://cdn1.xemtivivip.com/live/maxm.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-id="AXN-ClipTV" tvg-logo="https://htvc.vn/uploads/editor/images/2539574-logo-max-by-hbo.png" ,MAX BY HBO2
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-id="AXN-ClipTV" tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-maxbyhbo-480x320.jpg" ,MAX BY HBO2
 http://cdn1.xemtivivip.com/live/maxm.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
