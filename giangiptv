@@ -198,6 +198,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="NƯỚC NGOÀI",TV5 MONDE
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NƯỚC NGOÀI",DW
+http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=dw
 
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhD5JSMY-yA_zL3BO6Sox8kRF25ghdjbAS7Y_66UGIA26Gbysn" ,VOV Vietnam Journey HD
