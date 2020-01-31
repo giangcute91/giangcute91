@@ -19,68 +19,6 @@ http://xemtivi.online/live/vtv8/index.m3u8
 http://xemtivi.online/live/vtv9/index.m3u8
 
 
-#EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/8CnKosU.jpg",HTV1
-http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/WQHqOFj.jpg" tvg-name="HTV2",HTV2
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/qazQC3J.jpg" tvg-name="HTV3",HTV3
-http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.postimg.cc/wMtf5tBQ/HTV_KEY.png",HTV4
-http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/lj72rHM.jpg" tvg-name="HTV7",HTV7
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/lVkFTxB.jpg" tvg-name="HTV9",HTV9
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2019-05-22/6833055-9051942-plus.png",HTVC Plus
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/728x409/banner/2018/06/05/879824-ThuanVietHD1.png" group-title="HTVC",HTVC Thuần Việt HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HRNmZdU.png" group-title="HTVC",HTVC Phụ Nữ
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pAqskAN.png" group-title="HTVC",HTVC Phim HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PgOD7m8.png" group-title="HTVC",HTVC Ca Nhạc
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qpMwhg7.jpg" group-title="HTVC",HTVC Du Lịch & Cuộc Sống
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aFjXzhar.jpg" group-title="HTVC",HTVC Gia Đình HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gXSu7YV.jpg" group-title="HTVC",HTVC Thể Thao HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2019-05-22/6833055-9051942-plus.png" group-title="HTVC",HTVC Plus
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
-
-
-#EXTINF:-1 group-title="VTC" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1
-https://v2bdoz1zs4.vcdn.com.vn/hls/VTC1_631/03.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/80JNlos.png" group-title="VTC",VTC2
-http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC2/hlsv5/VTC2.m3u8
-#EXTINF:-1 tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtc3.png" group-title="VTC",VTC3
-http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC3/hlsv5/VTC3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v9DNS85.png" group-title="VTC",VTC4
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YasRGy0.png" group-title="VTC",VTC6
-http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC6/hlsv5/VTC6.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lW2DbEB.png" group-title="VTC",VTC7
-http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC7/hlsv5/VTC7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FVM7co8.jpg" group-title="VTC",VTC8
-http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC8/hlsv5/VTC8.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UOIPXAr.png" group-title="VTC",VTC9
-http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC9/hlsv5/VTC9.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gyKnxEP.png" group-title="VTC",VTC10
-http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC10/hlsv5/VTC10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/liNUOk4.jpg" group-title="VTC",VTC11
-http://xemtivi.online/live/vtc/vtc11/chunklist.m3u8
-#http://rwkqvfj6jq.vcdn.com.vn/hls/live/eds/VTC11/hlsv5/VTC11-avc1_2191200=4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OHzugWa.jpg" group-title="VTC",VTC12
-http://xemtivi.online/live/vtc/vtc12/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hLQNEhy.png" group-title="VTC",VTC13
-http://xemtivi.online/live/vtc/vtc13/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/85swmKd.png" group-title="VTC",VTC14
-http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC14/hlsv5/VTC14.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/amaDGnw.jpg" group-title="VTC",VTC16
-http://rwkqvfj6jq.vcdn.com.vn//hls/live/eds/VTC16/hlsv5/VTC16.m3u8
-
 
 
 #EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/logo-c-c-ki-u-con-----i-u--v/viegiaitri200219.png",VTVcab1 - Vie Giải Trí 
@@ -124,12 +62,6 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab18hd
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab19hd
 #EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-1/v20-220124-164.png",VTVcab20 - V Family 
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab20hd
-#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://hoangthanh.tk/icon-channel/VTVcab/vtvcab21.png",VTVcab21 - Cartoon Kids (BiBi+)
-
-#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/-nh-logo---i-t-c/lifetv051216doitac.png",VTVcab22 -Life TV (Love Nature TV)
-
-#EXTINF:-1 group-title="Kênh VTVcab" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/logo-c-c-ki-u-con-----i-u--v/golf-300919.png",VTVcab23 - Golf TV
-http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab23hd
 
 
 
@@ -153,7 +85,6 @@ http://103.68.251.137/live/axn/index.m3u8?token=u2FC28V3qzTPpIzsxPMg4w&time=1580
 http://103.68.251.6/live/hbo/index.m3u8
 #http://cdn3.xemtivivip.com/live/hbox.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-id="AXN-ClipTV" tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-maxbyhbo-480x320.jpg" ,MAX BY HBO
-
 #http://cdn1.xemtivivip.com/live/max.m3u8
 
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",FOX HD
