@@ -176,6 +176,10 @@ http://103.68.251.6/live/cartoon/index.m3u8
 #http://cdn1.xemtivivip.com/live/cartoon.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",Boomerang
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Disney_Channel_logo_%282014%29.svg",Disney Channel
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://img.favpng.com/4/15/15/disney-junior-mickey-mouse-the-walt-disney-company-television-disney-channel-png-favpng-iDUngqqk9pxKLiBqejcj9pEa8.jpg",Disney Junior English
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://imgur.com/pycFGMd.png",Disney Channel
 https://cdnlb.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/index.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rai_Movie_HD_-_Logo_2017.svg/1024px-Rai_Movie_HD_-_Logo_2017.svg.png" ,Rai Movie HD
