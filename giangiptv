@@ -49,6 +49,8 @@ http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv8
 http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv9
 
 
+
+
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/8CnKosU.jpg",HTV1
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/WQHqOFj.jpg" tvg-name="HTV2",HTV2
@@ -288,7 +290,7 @@ http://tv.ctvcamau.vn/live/tv/tv.m3u8
 http://vietcago.net/vstv/longantv.m3u8
 
 
-#EXTINF:0 group-title="LIVE-TỔNG HỢP",Live-Truyện Ma Nguyễn Ngọc Ngạn
+#EXTINF:-1 group-title="LIVE-TỔNG HỢP",Live-Truyện Ma Nguyễn Ngọc Ngạn
 https://ws.flv.nimo.tv/live/su1599512427596rff1cf51a332632f6e97db346b153156e.flv
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP",Live-Hài Hoài Linh
 https://tx.flv.nimo.tv/live/su1599512427606rf2ef4b5c1579eb96360153fb0d1fcfc1.flv
@@ -475,9 +477,9 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
 #EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Disney Channel
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
-#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Disney Junior
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Disney Junior Indonesia
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Disney Junior Indonesia (2)
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Disney Junior English
 https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 #EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
