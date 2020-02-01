@@ -286,7 +286,6 @@ http://tv.ctvcamau.vn/live/tv/tv.m3u8
 http://vietcago.net/vstv/longantv.m3u8
 
 
-
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP",Live-Truyện Ma Nguyễn Ngọc Ngạn
 https://ws.flv.nimo.tv/live/su1599512427596rff1cf51a332632f6e97db346b153156e.flv
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP",Live-Hài Hoài Linh
@@ -388,6 +387,132 @@ https://ws.flv.nimo.tv/live/su1599512427594r0f36e55ce92a8530ce0317fc4afb9837.flv
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP" tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,The Flash Người Hùng Tia Chớp
 https://ws.flv.nimo.tv/live/su1599512427625r1b2b320b004694b1ca38eb84c95aed8a.flv?needwm=0
 
+
+
+
+#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="PHIM KHÔNG VIETSUB",MBC Max HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-country="CN" tvg-url="" group-title="PHIM KHÔNG VIETSUB",24/7 Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.pngmart.com/files/4/Hollywood-Sign-PNG-Photos.png" tvg-country="CN" tvg-url="" group-title="PHIM KHÔNG VIETSUB",24/7 Hollywood Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="PHIM KHÔNG VIETSUB",AYSAR Hollywood Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="PHIM KHÔNG VIETSUB",AYSAR MOVIE 12
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="PHIM KHÔNG VIETSUB",AYSAR MOVIE 2
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="PHIM KHÔNG VIETSUB",AYSAR MOVIE 6
+http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="PHIM KHÔNG VIETSUB",AYSAR MOVIE 7
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" tvg-country="CN" tvg-url="" group-title="PHIM KHÔNG VIETSUB",AYSAR Movie 9
+http://aldirect.hls.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/01/b4u_plus_ae.png" tvg-country="IN" tvg-url="" group-title="PHIM KHÔNG VIETSUB",B4U Plus
+http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.imgur.com/JZW1rg4.png" tvg-country="RO" tvg-url="" group-title="PHIM KHÔNG VIETSUB",BO TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="CBC Drama ARB" tvg-name="CBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VW5Qk23.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="PHIM KHÔNG VIETSUB",CBC Drama
+http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="http://i.imgur.com/bh1iOFz.png" tvg-country="GR" tvg-url="" group-title="PHIM KHÔNG VIETSUB",Cinefil GR
+http://bit.ly/2Dn2Yty
+#EXTINF:-1 tvg-id="Cinema 1 ARB" tvg-name="Cinema 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lNhSZ9N.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="PHIM KHÔNG VIETSUB",Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
+#EXTINF:-1 tvg-id="dmc HD ARB" tvg-name="dmc HD ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/es7v1kI.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="PHIM KHÔNG VIETSUB",DMC HD
+http://livecdnh3.tvanywhere.ae/hls/dmchd/05.m3u8
+#EXTINF:-1 tvg-id="Dubai One ARB" tvg-name="Dubai One ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="PHIM KHÔNG VIETSUB",Dubai One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Greek" tvg-logo="https://i.imgur.com/0iklNh2.png" tvg-country="GR" tvg-url="" group-title="PHIM KHÔNG VIETSUB",Groovy
+http://bit.ly/2p6JqSo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/GgmXZRU.png" tvg-country="IR" tvg-url="" group-title="PHIM KHÔNG VIETSUB",iFILM English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist_b1096000.m3u8
+#EXTINF:-1 tvg-id="MBC 2 ARB" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="PHIM KHÔNG VIETSUB",MBC 2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/05.m3u8
+#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="PHIM KHÔNG VIETSUB",MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/04.m3u8
+#EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="PHIM KHÔNG VIETSUB",MBC Drama
+http://livecdnh2.tvanywhere.ae:80/hls/mbc_drama/05.m3u8
+#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="PHIM KHÔNG VIETSUB",MBC Max HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/pIuJqYk.png" tvg-country="US" tvg-url="" group-title="PHIM KHÔNG VIETSUB",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="Rai Premium IT" tvg-name="Rai Premium IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/s5CnlRh.jpg" tvg-country="IT" tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz" group-title="PHIM KHÔNG VIETSUB",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZMXEFd1.png" tvg-country="SA" tvg-url="" group-title="PHIM KHÔNG VIETSUB",Rotana Cinema
+http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Albanian" tvg-logo="https://i.imgur.com/dvqV5C1.png" tvg-country="AL" tvg-url="" group-title="PHIM KHÔNG VIETSUB",RTSH Film
+http://79.106.48.2/live/rtsh_film_ott_p3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/SAfu2jz.png" tvg-country="HK" tvg-url="" group-title="PHIM KHÔNG VIETSUB",Star Movies HD (Middle East)
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/rsz_59bf88822fd6e2c3371ae9eff844f21e_0.png" tvg-country="IN" tvg-url="" group-title="PHIM KHÔNG VIETSUB",Sur Sagar TV
+http://sursagar24.dyndns.tv:8080/sstv/720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xDGoG1r.jpg" tvg-country="US" tvg-url="" group-title="PHIM KHÔNG VIETSUB",The Film Detective
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/X99lmj6.png" tvg-country="JP" tvg-url="" group-title="PHIM KHÔNG VIETSUB",WOWOWシネマ
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/6S9cQR4.jpg" tvg-country="IN" tvg-url="" group-title="PHIM KHÔNG VIETSUB",Zee Aflam
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+#EXTINF:-1 tvg-id="kinopokaz-hd1" tvg-name="Шокирующее" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/shokiruyushchee.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="PHIM KHÔNG VIETSUB",Шокирующее HD
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+
+
+
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",BabyFirst臺灣
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_2.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Boing
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Boomerang
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Cartoon Network
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",CBeebies
+https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Disney Channel
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Disney Junior Indonesia (2)
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",EBS Kids
+http://bit.ly/2NFCRjg
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",EBS Kids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Knowledge Kids
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",KurdMax Papule
+http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Miao Mi
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Miao Mi
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Sat 7 Kids
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Sat7 Kids
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/chunklist_w918104804.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Spacetoon
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",Spacetoon
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",TRT Cocuk
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",TéléToon+
+http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",WZra Kids TV
+http://wpso.com:1936/hls/kidshd.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",malyatkotv
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+#EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",malyatkotv
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
 
 ----Tây Du Ký 2010----
 #EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 1
