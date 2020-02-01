@@ -289,7 +289,7 @@ http://tv.ctvcamau.vn/live/tv/tv.m3u8
 http://vietcago.net/vstv/longantv.m3u8
 
 
-#EXTINF:-1 group-title="LIVE-TỔNG HỢP",Live-Truyện Ma Nguyễn Ngọc Ngạn
+#EXTINF:0 group-title="LIVE-TỔNG HỢP",Live-Truyện Ma Nguyễn Ngọc Ngạn
 https://ws.flv.nimo.tv/live/su1599512427596rff1cf51a332632f6e97db346b153156e.flv
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP",Live-Hài Hoài Linh
 https://tx.flv.nimo.tv/live/su1599512427606rf2ef4b5c1579eb96360153fb0d1fcfc1.flv
