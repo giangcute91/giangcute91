@@ -49,6 +49,8 @@ http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv8
 http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv9
 
 
+
+
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/8CnKosU.jpg",HTV1
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/WQHqOFj.jpg" tvg-name="HTV2",HTV2
@@ -172,6 +174,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://banner2.cleanpng.com/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg",CARTOON NETWORK 2
 http://103.68.251.6/live/cartoon/index.m3u8
 #http://cdn1.xemtivivip.com/live/cartoon.m3u8
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",Boomerang
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://imgur.com/pycFGMd.png",Disney Channel
 https://cdnlb.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/index.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rai_Movie_HD_-_Logo_2017.svg/1024px-Rai_Movie_HD_-_Logo_2017.svg.png" ,Rai Movie HD
