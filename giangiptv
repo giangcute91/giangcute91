@@ -191,9 +191,7 @@ http://103.68.251.137/live/axn/index.m3u8?token=u2FC28V3qzTPpIzsxPMg4w&time=1580
 http://103.68.251.6/live/hbo/index.m3u8
 #http://cdn3.xemtivivip.com/live/hbox.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-id="AXN-ClipTV" tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-maxbyhbo-480x320.jpg" ,MAX BY HBO
-
 #http://cdn1.xemtivivip.com/live/max.m3u8
-
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png",FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png",FOX FAMILY MOVIES HD
@@ -225,7 +223,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="https://cdn.countryflags.com/thumbs/france/flag-round-250.png" group-title="NƯỚC NGOÀI",TV5 MONDE
 https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NƯỚC NGOÀI",DW
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="NƯỚC NGOÀI",DW
 http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=dw
 #EXTINF:-1 tvg-id="MTV-NO" tvg-name="MTV-NO" tvg-language="Norwegian Bokmål" tvg-logo="https://i.imgur.com/iviMrbO.jpg" tvg-country="NO" tvg-url="http://epg.streamstv.me/epg/guide-norway.xml.gz" group-title="NƯỚC NGOÀI",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
