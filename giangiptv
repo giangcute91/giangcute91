@@ -185,10 +185,11 @@ https://cdnlb.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/index.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rai_Movie_HD_-_Logo_2017.svg/1024px-Rai_Movie_HD_-_Logo_2017.svg.png" ,Rai Movie HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://pluspng.com/img-png/axn-logo-png-axn-hd-png-820.png",AXN
-http://103.68.251.137/live/axn/index.m3u8?token=u2FC28V3qzTPpIzsxPMg4w&time=1580463555
+http://cdn1.xemtivivn.com/live/axn.m3u8?token=4iwBVk2-XwVQlOHDwtjMGw&expires=1580617018
 #http://cdn2.xemtivivip.com/live/axn.m3u8
 #EXTINF:-1 tvg-logo="https://frontier.com/channels/~/media/channels/premium-channels/images/channels-hbo-logo.png" group-title="NƯỚC NGOÀI",HBO
-http://103.68.251.6/live/hbo/index.m3u8
+http://cdn5.xemtivivn.com/live/hbox.m3u8?token=VNlJWSmaZfjkh-pufa4Mxg&expires=1580617122
+#http://103.68.251.6/live/hbo/index.m3u8
 #http://cdn3.xemtivivip.com/live/hbox.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-id="AXN-ClipTV" tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-maxbyhbo-480x320.jpg" ,MAX BY HBO
 #http://cdn1.xemtivivip.com/live/max.m3u8
