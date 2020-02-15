@@ -49,6 +49,8 @@ http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv8
 http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv9
 
 
+
+
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/8CnKosU.jpg",HTV1
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/WQHqOFj.jpg" tvg-name="HTV2",HTV2
@@ -168,29 +170,38 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://img.meituan.net/csc/df949a136e7323841ed4837a30baed0228071.jpg",EBS Kids TV
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1065959876.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI",Cartoon Network HD
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
+#https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ytimg.com/vi/d8ipweHTVYk/maxresdefault.jpg",CARTOON NETWORK SD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://banner2.cleanpng.com/20180404/avq/kisspng-cartoon-network-logo-television-animation-cartoon-network-5ac59e4556f2f6.8778586515229005493562.jpg",CARTOON NETWORK VIETSUB
-http://cdn2.xemtivivn.com/live/cartoon.m3u8?token=8u7aLSXemcOJGcCIlmU2ZQ&expires=1580663424
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/z33yVSZ.png",Cartoon TV (New!)
+http://web.onair-radio.eu:1935/cartoon/cartoon/playlist.m3u8
 #http://cdn1.xemtivivip.com/live/cartoon.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",Boomerang
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://www.pngitem.com/pimgs/m/295-2955223_disney-channel-logo-de-hd-png-download.png",Disney Channel
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
-#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://img.favpng.com/4/15/15/disney-junior-mickey-mouse-the-walt-disney-company-television-disney-channel-png-favpng-iDUngqqk9pxKLiBqejcj9pEa8.jpg",Disney Junior English
-https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
-#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://imgur.com/pycFGMd.png",Disney Channel
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
+#EXTINF:0 group-title="NƯỚC NGOÀI" tvg-logo="https://www.pngitem.com/pimgs/m/295-2955223_disney-channel-logo-de-hd-png-download.png",Disney Channel 1
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://imgur.com/pycFGMd.png",Disney Channel 2
 https://cdnlb.tvplayhome.lt/live/eds/Disney_Channel/HLS_encr/index.m3u8
+#EXTINF:-1 group-title="NƯỚC NGOÀI"  tvg-logo="https://i.imgur.com/VSUbSDi.png",Disney XD
+http://185.176.117.243/live/eds/Disney_XD/HLS_encr/Disney_XD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hwQfZ7e.png" group-title="NƯỚC NGOÀI",Disney Junior (Opt-1)
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hwQfZ7e.png" group-title="NƯỚC NGOÀI",Disney Junior (Opt-2)
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
+
 #EXTINF:-1 group-title="NƯỚC NGOÀI"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rai_Movie_HD_-_Logo_2017.svg/1024px-Rai_Movie_HD_-_Logo_2017.svg.png" ,Rai Movie HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://pluspng.com/img-png/axn-logo-png-axn-hd-png-820.png",AXN
-http://cdn2.xemtivivn.com/live/axn.m3u8?token=-BSqPaKGw2K9z9Vbhd_bmg&expires=1580663393
-#http://cdn2.xemtivivip.com/live/axn.m3u8
+http://210.210.155.66/h/h141/index.m3u8
 #EXTINF:-1 tvg-logo="https://frontier.com/channels/~/media/channels/premium-channels/images/channels-hbo-logo.png" group-title="NƯỚC NGOÀI",HBO
 http://cdn1.xemtivivn.com/live/hbo.m3u8?token=vXOGuMKUY3NYTj7w0hWw8g&expires=1580663149
-#http://103.68.251.6/live/hbo/index.m3u8
-#http://cdn3.xemtivivip.com/live/hbox.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dfHHWYX.png" group-title="NƯỚC NGOÀI",HBO Hits (New!)
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRXxLom.png" group-title="NƯỚC NGOÀI",HBO Signature (New!)
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-HBOSignature-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="THAILAND",HBO (New!)
+http://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-id="AXN-ClipTV" tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-maxbyhbo-480x320.jpg" ,MAX BY HBO
 http://cdn1.xemtivivn.com/live/max.m3u8?token=xygcUS-hZzIS1PfMbGSlrQ&expires=1580663343
 #http://cdn1.xemtivivip.com/live/max.m3u8
