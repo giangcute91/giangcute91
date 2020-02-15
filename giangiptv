@@ -49,6 +49,8 @@ http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv8
 http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv9
 
 
+
+
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/8CnKosU.jpg",HTV1
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/WQHqOFj.jpg" tvg-name="HTV2",HTV2
@@ -197,7 +199,7 @@ http://cdn1.xemtivivn.com/live/hbo.m3u8?token=vXOGuMKUY3NYTj7w0hWw8g&expires=158
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NRXxLom.png" group-title="NƯỚC NGOÀI",HBO Signature (New!)
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature-avc1_2499968=7-HBOSignature-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="THAILAND",HBO (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="NƯỚC NGOÀI",HBO (New!)
 http://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-id="AXN-ClipTV" tvg-logo="https://d2zkrhcchwordv.cloudfront.net/assets/img/fb-maxbyhbo-480x320.jpg" ,MAX BY HBO
