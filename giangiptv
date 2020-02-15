@@ -49,6 +49,8 @@ http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv8
 http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv9
 
 
+
+
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/8CnKosU.jpg",HTV1
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/WQHqOFj.jpg" tvg-name="HTV2",HTV2
@@ -361,7 +363,7 @@ https://ws.flv.nimo.tv/live/su1599512427555r836c741032fe0c717363f3d8165710c2.flv
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP" tvg-logo="https://i.postimg.cc/3x20V1WP/thanh-long-Screenshot-3.jpg",Live-Thành Long
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="LIVE-TỔNG HỢP" tvg-logo="https://i.postimg.cc/3x20V1WP/thanh-long-Screenshot-3.jpg",Tuyển tập phim Thành Long
+#EXTINF:-1 group-title="LIVE-TỔNG HỢP" tvg-logo="https://i.postimg.cc/3x20V1WP/thanh-long-Screenshot-3.jpg",Tuyển tập Thành Long
 https://tx.flv.nimo.tv/live/su1599512427581r351d39e6132e1ade9cee4e1779e30b7b_high.flv
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP",Live-Lý Liên Kiệt
 http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
@@ -1113,5 +1115,3 @@ https://nh.ntl.clhcdn.net/clhgfs/video/cLPofgmG-720.mp4/index-v1-a1.m3u8
 https://nh.ntl.clhcdn.net/clhgfs/video/hLJvag51-720.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 546
 https://nh.ntl.clhcdn.net/clhgfs/video/4aSwsgDV1544849311-720.mp4/index-v1-a1.m3u8
-
-
