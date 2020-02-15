@@ -50,6 +50,7 @@ http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv9
 
 
 
+
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/8CnKosU.jpg",HTV1
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/WQHqOFj.jpg" tvg-name="HTV2",HTV2
@@ -361,9 +362,11 @@ https://ws.flv.nimo.tv/live/su1599512427555r836c741032fe0c717363f3d8165710c2.flv
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP",Live-Châu Tinh Trì_2
 http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP" tvg-logo="https://i.postimg.cc/3x20V1WP/thanh-long-Screenshot-3.jpg",Live-Thành Long
-http://ws.flv.nimo.tv:80/live/su1599512427581r351d39e6132e1ade9cee4e1779e30b7b.flv
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="LIVE-TỔNG HỢP" tvg-logo="https://i.postimg.cc/3x20V1WP/thanh-long-Screenshot-3.jpg",Tuyển tập phim Thành Long
+https://tx.flv.nimo.tv/live/su1599512427581r351d39e6132e1ade9cee4e1779e30b7b_high.flv
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP",Live-Lý Liên Kiệt
-http://tx.flv.nimo.tv:80/live/su1599512427613rc65a6f5bf850525e6b23ec9be1786a8f.flv
+http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP" tvg-logo="https://i.postimg.cc/1zSC2JBk/chau-nhuan-phat-1.jpg",Live-Châu Nhuận Phát
 http://ws.flv.nimo.tv:80/live/su1599512427566rca27179ff65fc54240079997d10cde93.flv
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP" tvg-logo="https://i.postimg.cc/3RQT6j4b/luu-duc-hoa-Screenshot-3.jpg",Live-Lưu Đức Hòa
@@ -376,8 +379,10 @@ http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2
 http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1.m3u8
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2019_03_29/phong_than_dien_nghia10.jpg",Live_Phong Thần Dương Tiễn
 https://ws.flv.nimo.tv/live/su1599512427621r54f92d0bb9657a84d3211bbe20bedf26_high.flv?needwm=0
-#EXTINF:-1 group-title="LIVE-TỔNG HỢP" tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png",Kênh Live Ỷ Thiên Đồ Long Ký 2019
+#EXTINF:-1 group-title="LIVE-TỔNG HỢP" tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png",Tân Ỷ Thiên Đồ Long Ký 2019
 https://tx.flv.nimo.tv/live/su1599512427617rae4f86972500969d24b8d4bc88ee9b7a.flv
+#EXTINF:-1 group-title="LIVE-TỔNG HỢP" tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png",Ỷ Thiên Đồ Long Ký 2008
+https://tx.flv.nimo.tv/live/su1599512427551r650a1b5abfd7679be6e85c9e976c4e92.flv
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP" tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Conan Thám Tử Lừng Danh Movie
 https://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e.flv?needwm=0
 #EXTINF:-1 group-title="LIVE-TỔNG HỢP" tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Conan Thám Tử Lừng Danh
@@ -523,6 +528,7 @@ http://wpso.com:1936/hls/kidshd.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
 #EXTINF:0 group-title="HOAT HINH KHÔNG VIETSUB",malyatkotv
 http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
+
 
 ----Tây Du Ký 2010----
 #EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 1
@@ -1109,3 +1115,5 @@ https://nh.ntl.clhcdn.net/clhgfs/video/cLPofgmG-720.mp4/index-v1-a1.m3u8
 https://nh.ntl.clhcdn.net/clhgfs/video/hLJvag51-720.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 546
 https://nh.ntl.clhcdn.net/clhgfs/video/4aSwsgDV1544849311-720.mp4/index-v1-a1.m3u8
+
+
