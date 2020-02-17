@@ -19,34 +19,25 @@ http://xemtivi.online/live/vtv8/index.m3u8
 http://xemtivi.online/live/vtv9/index.m3u8
 
 
-#EXTINF:-1 group-title="VTV_BAK" tvg-logo="https://i.imgur.com/sBIwAmn.jpg",VTV1
-#https://or7qkl7etl.vcdn.com.vn/hls/VTV1_HD_631/03.m3u8
-http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv1
-#EXTINF:-1 group-title="VTV_BAK" tvg-logo="https://i.imgur.com/29FDRXW.jpg",VTV2
-#http://xemtivi.online/live/vtv2/index.m3u8
-http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv2
-#EXTINF:-1 group-title="VTV_BAK" tvg-logo="https://i.imgur.com/8P3vbP2.jpg",VTV3
-#http://xemtivi.online/live/vtv3/index.m3u8
-http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv3
-#https://i0u17313q.vtvgiaitri.vn/hls/vtv3-234t4x.smil/t9x8ioh.m3u8
-#EXTINF:-1 group-title="VTV_BAK" tvg-logo="https://i.imgur.com/dWy3awY.jpg",VTV4
-#http://xemtivi.online/live/vtv4/index.m3u8
-http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv4
-#EXTINF:-1 group-title="VTV_BAK" tvg-logo="https://i.imgur.com/fWkhuBF.jpg",VTV5
-#http://xemtivi.online/live/vtv5/index.m3u8
-http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv5
-#EXTINF:-1 group-title="VTV_BAK" tvg-logo="https://i.imgur.com/xvqCQT6.jpg",VTV6
-#http://xemtivi.online/live/vtv6/index.m3u8
-http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv6
-#EXTINF:-1 group-title="VTV_BAK" tvg-logo="https://i.imgur.com/7hC1wSG.jpg",VTV7
-#http://xemtivi.online/live/vtv7/index.m3u8
-http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv7
-#EXTINF:-1 group-title="VTV_BAK" tvg-logo="https://i.imgur.com/hG4PSqS.jpg",VTV8
-#http://xemtivi.online/live/vtv8/index.m3u8
-http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv8
-#EXTINF:-1 group-title="VTV_BAK" tvg-logo="https://i.imgur.com/b5Ukwdm.jpg",VTV9
-#http://xemtivi.online/live/vtv9/index.m3u8
-http://www.tivi12h.net/ok/netudiky86279tumilo1.php?id=vtv9
+
+#EXTINF:0 group-title="VTV_BAK" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/9148034-logo-vtv1hd-a.png",VTV1 HD
+http://or7qkl7etl.vcdn.com.vn/hls/VTV1_HD_631/03.m3u8
+#EXTINF:0 group-title="VTV_BAK" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-16/5273187-6131906-logo-vt.png",VTV2 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv2
+#EXTINF:0 group-title="VTV_BAK" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/8026305-logo-vtv3hd-a.png",VTV3 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv3
+#EXTINF:0 group-title="VTV_BAK" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv4_15089873636.jpg",VTV4 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv4
+#EXTINF:0 group-title="VTV_BAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/VTV5HD.png/180px-VTV5HD.png",VTV5 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv5
+#EXTINF:0 group-title="VTV_BAK" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-17/4483-vtv6-hd.png",VTV6 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv6
+#EXTINF:0 group-title="VTV_BAK" tvg-logo="https://3.bp.blogspot.com/-NdUXBBjNoyw/WsTpwaMlaPI/AAAAAAAAAI4/hoCKOGqUtM8xlXcBSBT2mlEtxlreKCTOwCLcBGAs/s1600/truyen%2Bhinh%2Bvtv7.png",VTV7 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv7
+#EXTINF:0 group-title="VTV_BAK" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_150173505324.jpg",VTV8 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv8
+#EXTINF:0 group-title="VTV_BAK" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-16/5637467-vtv9-hd-png.png",VTV9 HD
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv9
 
 
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/8CnKosU.jpg",HTV1
@@ -658,6 +649,7 @@ http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-59.mp4
 #EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 60 (End)
 http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-60.mp4
+
 
 
 ----Tế Công----
