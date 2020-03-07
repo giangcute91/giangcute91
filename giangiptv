@@ -153,12 +153,13 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab20hd
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtvcab23hd
 
 
+
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Miao-mi-logo-color.png/revision/latest/scale-to-width-down/340?cb=20180713090314",MIAO-MI
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://img.meituan.net/csc/df949a136e7323841ed4837a30baed0228071.jpg",EBS Kids TV
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1065959876.m3u8
 #EXTINF:0 group-title="NƯỚC NGOÀI",Cartoon Network HD
-#https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
+http://cdn1.xemtivivn.com/live/ioDUb9Rl8d9VJ7FknCro7g/1583554182/cartoon.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://i.ytimg.com/vi/d8ipweHTVYk/maxresdefault.jpg",CARTOON NETWORK SD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://i.imgur.com/z33yVSZ.png",Cartoon TV (New!)
@@ -179,7 +180,9 @@ https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 
 #EXTINF:-1 group-title="NƯỚC NGOÀI"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rai_Movie_HD_-_Logo_2017.svg/1024px-Rai_Movie_HD_-_Logo_2017.svg.png" ,Rai Movie HD
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://pluspng.com/img-png/axn-logo-png-axn-hd-png-820.png",AXN
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://pluspng.com/img-png/axn-logo-png-axn-hd-png-820.png",AXN VI
+http://cdn5.xemtivivn.com/live/DW6PEiigxCIQSvNwRCRxIQ/1583554310/axn.m3u8
+#EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://pluspng.com/img-png/axn-logo-png-axn-hd-png-820.png",AXN EN
 http://210.210.155.66/h/h141/index.m3u8
 #EXTINF:-1 tvg-logo="https://frontier.com/channels/~/media/channels/premium-channels/images/channels-hbo-logo.png" group-title="NƯỚC NGOÀI",HBO
 http://cdn4.xemtivivn.com/live/4c55WMOobXYyElbn3JS8WQ/1583554022/hbo.m3u8
