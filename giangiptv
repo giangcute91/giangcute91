@@ -40,8 +40,6 @@ http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv8
 http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv9
 
 
-
-
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/8CnKosU.jpg",HTV1
 http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/WQHqOFj.jpg" tvg-name="HTV2",HTV2
@@ -185,7 +183,7 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&
 #EXTINF:-1 group-title="NƯỚC NGOÀI" tvg-logo="https://pluspng.com/img-png/axn-logo-png-axn-hd-png-820.png",AXN
 http://210.210.155.66/h/h141/index.m3u8
 #EXTINF:-1 tvg-logo="https://frontier.com/channels/~/media/channels/premium-channels/images/channels-hbo-logo.png" group-title="NƯỚC NGOÀI",HBO
-http://cdn1.xemtivivn.com/live/hbo.m3u8?token=vXOGuMKUY3NYTj7w0hWw8g&expires=1580663149
+http://cdn4.xemtivivn.com/live/4c55WMOobXYyElbn3JS8WQ/1583554022/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dfHHWYX.png" group-title="NƯỚC NGOÀI",HBO Hits (New!)
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-HBOHits-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NRXxLom.png" group-title="NƯỚC NGOÀI",HBO Signature (New!)
