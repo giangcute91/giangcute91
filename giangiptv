@@ -2,21 +2,22 @@
 #EXTINF:-1 group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V1_Eb8vhXa.png",VTV1
 https://or7qkl7etl.vcdn.com.vn/hls/VTV1_HD_631/03.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V2.png",VTV2
-http://xemtivi.online/live/vtv2/index.m3u8
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv2
 #EXTINF:-1 group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V3.png",VTV3
-http://xemtivi.online/live/vtv3/index.m3u8
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv3
 #EXTINF:-1 group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V4.png",VTV4
-http://xemtivi.online/live/vtv4/index.m3u8
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv4
 #EXTINF:-1 group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5
-http://xemtivi.online/live/vtv5/index.m3u8
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv5
 #EXTINF:-1 group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V6.png",VTV6
-http://xemtivi.online/live/vtv6/index.m3u8
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv6
 #EXTINF:-1 group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V7_10HKiVA.png",VTV7
-http://xemtivi.online/live/vtv7/index.m3u8
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv7
 #EXTINF:-1 group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V8.png",VTV8
-http://xemtivi.online/live/vtv8/index.m3u8
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv8
 #EXTINF:-1 group-title="VTV" tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V9_LTfTUAq.png",VTV9
-http://xemtivi.online/live/vtv9/index.m3u8
+http://chipcun.dynu.com:333/xemtv47/xemtv47kenh.m3u8?kenh=vtv9
+
 
 
 #EXTINF:0 group-title="VTV_BAK" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/9148034-logo-vtv1hd-a.png",VTV1 HD
